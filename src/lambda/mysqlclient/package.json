@@ -1,0 +1,19 @@
+{
+  "name": "mysqlclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.101",
+    "@types/mysql": "^2.15.21",
+    "aws-lambda": "^1.0.7",
+    "aws-sdk": "^2.1168.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
